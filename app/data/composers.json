@@ -1,0 +1,46 @@
+{
+  "composers": [
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "born": 1776,
+      "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Croce-Mozart-Detail.jpg/375px-Croce-Mozart-Detail.jpg",
+      "synopsis": "Wolfgang Amadeus Mozart (German: ['v?lfga? ama'de??s 'mo?tsa?t], English see fn.;[1] 27 January 1756 – 5 December 1791), baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart,[2] was a prolific and influential composer of the Classical era.",
+      "moreURL": "http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+    },
+    {
+      "name": "Johann Nepomuk Hummel",
+      "born": 1778,
+      "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/JNHummel_2.jpg/170px-JNHummel_2.jpg",
+      "synopsis": "Johann Nepomuk Hummel (14 November 1778 – 17 October 1837) was an Austrian composer and virtuoso pianist. His music reflects the transition from the Classical to the Romantic musical era.",
+      "moreURL": "http://en.wikipedia.org/wiki/Johann_Nepomuk_Hummel"
+    },
+    {
+      "name": "Antonio Vivaldi",
+      "born": 1678,
+      "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Antonio_Vivaldi.jpg/170px-Antonio_Vivaldi.jpg",
+      "synopsis": "Antonio Lucio Vivaldi (Italian: [an't??njo 'lu?t?o vi'valdi]; 4 March 1678 – 28 July 1741) was an Italian Baroque composer, virtuoso violinist, teacher and cleric. Born in Venice, he is recognized as one of the greatest Baroque composers, and his influence during his lifetime was widespread across Europe.",
+      "moreURL": "http://en.wikipedia.org/wiki/Antonio_Vivaldi"
+    },
+    {
+      "name": "Fritz Kreisler",
+      "born": 1875,
+      "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fritz_Kreisler_1.jpg/220px-Fritz_Kreisler_1.jpg",
+      "synopsis": "Friedrich 'Fritz' Kreisler (February 2, 1875 – January 29, 1962) was an Austrian-born violinist and composer.[1] One of the most famous violin masters of his or any other day, and regarded as one of the greatest violinists of all time, he was known for his sweet tone and expressive phrasing.",
+      "moreURL": "http://en.wikipedia.org/wiki/Fritz_Kreisler"
+    },
+    {
+      "name": "Olivier Messiaen",
+      "born": 1908,
+      "imageUrl": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Olivier_Messiaen_1930.jpg/170px-Olivier_Messiaen_1930.jpg",
+      "synopsis": "Olivier Messiaen (French: [?livje m?sj?~]; December 10, 1908 – April 27, 1992) was a French composer, organist and ornithologist, one of the major composers of the 20th century.",
+      "moreURL": "http://en.wikipedia.org/wiki/Olivier_Messiaen"
+    },
+    {
+      "name": "Ari Benjamin Meyers",
+      "born": 1972,
+      "imageUrl": "http://www.digitalinberlin.de/wordpress/wp-content/Ari-Benjamin-Meyers.jpg",
+      "synopsis": "Ari Benjamin Meyers (born June 20, 1972 in New York) is an American trained composer and conductor working in the in the field of contemporary art.",
+      "moreURL": "http://en.wikipedia.org/wiki/Ari_Benjamin_Meyers"
+    }
+  ]
+}

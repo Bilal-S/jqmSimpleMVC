@@ -1,0 +1,23 @@
+<!-- this is the main content for the Main page, it will be loaded by require.js and injected -->
+<section id="main" data-role="page" data-dom-cache="true" data-title="Composer List">
+
+        <div>
+            <div data-role='collapsible' data-collapsed='false'>
+            <ul id="cntrlMainList" data-role="listview" data-inset="false">
+
+            <!-- we do not have to draw this button here we could auto load the data and render. 
+                 However I wanted to stop the process to show that this is actually displayed
+            -->
+            <li>
+                <button class="ui-btn ui-icon-refresh ui-btn-icon-bottom" id="btnLoadComposers">Load Composers</button>     
+            </li>
+
+            </ul>
+            </div>
+        </div>
+
+</section>
+
+<!-- page end: this will only get loaded if browser refresh or reload is used by user directly -->
+<script type="text/javascript" src="homeRedirect.js"></script>
+
