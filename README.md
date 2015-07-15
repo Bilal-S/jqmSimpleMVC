@@ -1,2 +1,2 @@
 # jqmSimpleMVC
-A simple MVC app pattern using jquery mobile and RequireJS
+A minimalist MVC application pattern using jQuery Mobile and RequireJS
